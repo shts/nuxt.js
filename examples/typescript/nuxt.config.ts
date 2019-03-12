@@ -1,6 +1,4 @@
-import NuxtConfiguration from '@nuxt/config-edge'
-
-const config: NuxtConfiguration = {
+const config = {
   plugins: ['~/plugins/hello']
 }
 
